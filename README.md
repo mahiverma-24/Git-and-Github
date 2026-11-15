@@ -1,4 +1,4 @@
-# Sales Data Analyzer (PS No. 99)
+# Sales Data Analyzer
 
 A Python 3 console project that analyses a sales CSV file to find total revenue, best-selling products and region-wise performance using Pandas grouping, and visualises the results with Matplotlib.
 
@@ -107,8 +107,8 @@ Bar chart 'Region-wise Sales' displayed
 
 ```
 sales-data-analyzer/
-├── one.py
-├── sales.csv
+├──README.md
+├──one.py
 ├──region_sales.png
-└──README.md
+└──sales.csv
 ```
