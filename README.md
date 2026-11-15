@@ -40,10 +40,8 @@ If no file name is given, `sales.csv` in the current folder is used.
 
 ```
 1. Summary
-2. Group by Product & Region
-3. Top 5 selling products
-4. Charts (bar + line)
-5. Exit
+2. Group by Product & Region(With Charts)
+3. Exit
 ```
 
 ## Approach
